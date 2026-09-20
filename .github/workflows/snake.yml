@@ -16,7 +16,7 @@ jobs:
       - name: Generate Snake
         uses: Platane/snk/svg-only@v3
         with:
-          github_user_name: Sandeep6135
+          github_user_name: Sandeepkarmata
           outputs: |
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
