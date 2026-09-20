@@ -24,7 +24,7 @@
 I am a **Cybersecurity Engineer** and **Creative Technologist** passionate about automating security pipelines, conducting penetration testing, and building creative media experiences. With a strong background in computer science and specialized training in cybersecurity, I bridge the gap between secure code and robust system defense.
 
 *   🎓 **Education:** B.Tech in Computer Science and Engineering (Cyber Security) at Parul University.
-*   🛡️ **Specialization:** Web VAPT, DevSecOps Automation (Shift-Left SAST/DAST), and Incident Response.
+*   🛡️ **Specialization:** Web VAPT, DevSecOps Automation (Shift-Left SAST/DAST), Cloud Security (AWS), and Incident Response.
 *   🎨 **Creative Ventures:** Founder of **Takshashila Studios** and independent music producer **Sandeep Karmata**, playing 10+ instruments.
 
 ---
@@ -40,6 +40,8 @@ I am a **Cybersecurity Engineer** and **Creative Technologist** passionate about
         <li>SAST/DAST Automation</li>
         <li>Network Security Auditing</li>
         <li>Linux Hardening</li>
+        <li>Cloud Security (AWS)</li>
+        <li>IAM &amp; Privilege Escalation</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -49,6 +51,8 @@ I am a **Cybersecurity Engineer** and **Creative Technologist** passionate about
         <li>C++ / Bash / Linux</li>
         <li>Docker / Git / GitHub</li>
         <li>HTML / CSS / JavaScript</li>
+        <li>AWS (EC2, S3, IAM, VPC)</li>
+        <li>AWS Lambda / CloudWatch</li>
       </ul>
     </td>
     <td width="33%" valign="top">
@@ -58,6 +62,8 @@ I am a **Cybersecurity Engineer** and **Creative Technologist** passionate about
         <li>OWASP ZAP &amp; SonarQube</li>
         <li>Nmap &amp; Wireshark</li>
         <li>Metasploit &amp; Kali Linux</li>
+        <li>AWS Security Hub &amp; GuardDuty</li>
+        <li>AWS WAF &amp; Shield</li>
       </ul>
     </td>
   </tr>
@@ -75,6 +81,11 @@ I am a **Cybersecurity Engineer** and **Creative Technologist** passionate about
 *   Designed and built an automated CI/CD pipeline integrated with **SonarQube SAST**, **OWASP ZAP DAST**, **TruffleHog**, and **DefectDojo**.
 *   Automated security scanning at the commit stage to establish shift-left security practices.
 
+#### **AWS Cloud Security Hardening** — *Cloud Security Project*
+*   Architected and secured AWS environments by configuring **IAM least-privilege policies**, **VPC security groups**, **S3 bucket policies**, and enabling **CloudTrail** + **GuardDuty** for threat detection.
+*   Automated compliance checks using **AWS Security Hub** and built custom **Lambda** functions for real-time alerting on suspicious activity.
+*   Performed cloud-native penetration testing, identifying misconfigurations in IAM roles, exposed S3 buckets, and insecure EC2 instances.
+
 #### **GSSoC 2026 Contributor** — *Open Source &amp; AI Track*
 *   Contributing to secure software development, vulnerability remediation, and AI agent testing in community-driven repositories.
 
@@ -86,10 +97,10 @@ I am a **Cybersecurity Engineer** and **Creative Technologist** passionate about
 <table width="100%" border="0" cellpadding="0" cellspacing="0">
   <tr>
     <td width="50%" align="center" valign="top">
-      <img src="https://github-stats-extended.vercel.app/api?username=Sandeep6135&show_icons=true&hide_border=true&bg_color=2e3440&title_color=88c0d0&icon_color=81a1c1&text_color=d8dee9&count_private=true&rank_icon=github" alt="GitHub Stats" width="100%"/>
+      <img src="https://github-stats-extended.vercel.app/api?username=Sandeepkarmata&show_icons=true&hide_border=true&bg_color=2e3440&title_color=88c0d0&icon_color=81a1c1&text_color=d8dee9&count_private=true&rank_icon=github" alt="GitHub Stats" width="100%"/>
     </td>
     <td width="50%" align="center" valign="top">
-      <img src="https://streak-stats.demolab.com?user=Sandeep6135&hide_border=true&background=2e3440&stroke=4c566a&ring=88c0d0&fire=81a1c1&currStreakLabel=a3be8c&currStreakNum=88c0d0&sideNums=d8dee9&sideLabels=d8dee9&dates=81a1c1" alt="GitHub Streak" width="100%"/>
+      <img src="https://streak-stats.demolab.com?user=Sandeepkarmata&hide_border=true&background=2e3440&stroke=4c566a&ring=88c0d0&fire=81a1c1&currStreakLabel=a3be8c&currStreakNum=88c0d0&sideNums=d8dee9&sideLabels=d8dee9&dates=81a1c1" alt="GitHub Streak" width="100%"/>
     </td>
   </tr>
 </table>
@@ -98,13 +109,13 @@ I am a **Cybersecurity Engineer** and **Creative Technologist** passionate about
 <br/>
 
 <div align="center">
-  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Sandeep6135/Sandeep6135/output/github-snake-dark.svg" width="100%"/>
+  <img alt="Snake eating contributions" src="https://raw.githubusercontent.com/Sandeepkarmata/Sandeepkarmata/output/github-snake-dark.svg" width="100%"/>
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sandeep6135&color=88c0d0&style=flat-square&label=PROFILE+VIEWS"/>
+  <img src="https://komarev.com/ghpvc/?username=Sandeepkarmata&color=88c0d0&style=flat-square&label=PROFILE+VIEWS"/>
 </div>
 
 <br/>
